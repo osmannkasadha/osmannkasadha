@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Osman Kasadha!
 
-*A Software Developer* | Full-Stack Developer & Cybersecurity Enthusiast  
-Passionate about building innovative solutions and enhancing digital security.
+*A Software Developer* | Full-Stack Developer & Cybersecurity Enthusiast
 
+Passionate about building innovative solutions and enhancing digital security.
 I love creating, building, exploring the world of technology, always curious and always learning.
 
 ---
