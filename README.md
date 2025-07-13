@@ -1,34 +1,24 @@
 # 👋 Hi, I'm Osman Kasadha!
 
-*A Software Developer* | Full-Stack Developer & Cybersecurity Enthusiast
+*A Java Developer||Camunda Developer & Cybersecurity Enthusiast
 
 Passionate about building innovative solutions and enhancing digital security.
 I love creating, building, exploring the world of technology, always curious and always learning.
 
 ---
-### Tech Stack  
-
-#### Frontend Technologies  
-- ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26)  
-- ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=007ACC)  
-- ![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB)  
-- ![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000)  
-- ![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)  
+### Tech Stack   
 
 #### Backend Technologies  
 - ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB)  
-- ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=007396)  
-- ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933)  
-- ![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000)  
-- ![Django](https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=0E4B85)  
+- ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=007396)
+- ![Camunda](https://img.shields.io/badge/Camunda-FFFFFF?style=for-the-badge&logo=camunda&logoColor=007E8A) 
 
 #### Databases  
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1)  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1) 
 - ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1)  
 - ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248)  
-- ![MariaDB](https://img.shields.io/badge/MariaDB-FFFFFF?style=for-the-badge&logo=mariadb&logoColor=003545)  
+- ![MariaDB](https://img.shields.io/badge/MariaDB-FFFFFF?style=for-the-badge&logo=mariadb&logoColor=003545)
+- ![Pentaho](https://img.shields.io/badge/Pentaho-FFFFFF?style=for-the-badge&logo=pentaho&logoColor=00758F) 
 
 #### Tools & Platforms  
 - **Version Control:**  
@@ -55,26 +45,13 @@ I love creating, building, exploring the world of technology, always curious and
 - 💡 Always learning new things and working on exciting projects  
 
 ---
-## 🛠 Projects
-- *Online Quiz App* (Flask, HTML, CSS, JavaScript)  
-- *Task Management App* (Django, PostgreSQL)  
-- *E-commerce Product Catalog*  
-- *AI-Powered Tic-Tac-Toe Game*  
-
----
-## 📜 Certifications
-- *Fundamentals of Cybersecurity* – Milima Cyber Academy  
-- *Python Programming* – W3Schools  
-- *Full-Stack Web Development* – Redi School of Digital Integration  
-
----
 ## 🎯 Fun Fact
 "The best way to predict the future is to create it!" – I am always eager to learn, explore, and innovate in the tech world.  
 
 ---
 ## 📞 Contact
 📧 *Email:* osmannkasadha@gmail.com  
-📍 *Location:* Ahlen, Germany  
+📍 *Location:* Sendenhorst, Germany  
 
 ---
 🚀 Keep building, keep exploring!
